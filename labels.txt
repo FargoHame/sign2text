@@ -1,0 +1,9 @@
+0 call
+1 friend
+2 house
+3 i_love_you
+4 love
+5 more
+6 no
+7 what
+8 you
