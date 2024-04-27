@@ -1,12 +1,3 @@
 libgl1-mesa-glx
 libgl1-mesa-dev
-streamlit
-streamlit-webrtc
-av
-numpy
-opencv-python
-cvzone
-mediapipe
-tensorflow
-jax
-ml-dtypes
+
