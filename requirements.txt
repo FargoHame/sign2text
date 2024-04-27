@@ -43,7 +43,7 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.7.1
 mdurl==0.1.2
-mediapipe==0.10.11
+mediapipe
 ml-dtypes==0.2.0
 numpy==1.23.5
 oauthlib==3.2.2
